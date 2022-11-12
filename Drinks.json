@@ -1,0 +1,37 @@
+{
+   "Drinks": [
+      {
+         "Name": "French 75",
+         "Ingredients": [
+            {
+               "Spirit": "Plymouth Gin", //(Congac)
+               "Citrus": "Lemon Juice",
+               "Sugar": "Simple Syrup",
+               "Other": "Prosecco"
+            }
+         ]
+      },
+      {
+        "Name": "Gold Rush",
+        "Ingredients": [
+           {
+              "Spirit": "Bourboun Whiskey, 1.5o",
+              "Citrus": "Lemon Juice, .75o",
+              "Sugar": "Honey Syrup (3p honey - 1p hot water), .75oz"
+           }
+        ]
+     },
+      {
+        "Name": "Manhattan",
+        "Ingredients": [
+           {
+              "Spirit": "Rye Whiskey",
+              "Bitters": "Angostura",
+              "Sugar": "Sweet Vermouth"
+           }
+        ]
+     }
+   ]
+}
+
+// Pierre Ferrand Dry Curacao - Orange
