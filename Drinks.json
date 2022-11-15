@@ -4,7 +4,18 @@
          "Name": "French 75",
          "Ingredients": [
             {
-               "Spirit": "Plymouth Gin", //(Congac)
+               "Spirit": "Plymouth Gin",
+               "Citrus": "Lemon Juice",
+               "Sugar": "Simple Syrup",
+               "Other": "Prosecco"
+            }
+         ]
+      },
+      {
+         "Name": "French 75",
+         "Ingredients": [
+            {
+               "Spirit": "Congac",
                "Citrus": "Lemon Juice",
                "Sugar": "Simple Syrup",
                "Other": "Prosecco"
