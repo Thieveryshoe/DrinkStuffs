@@ -4,10 +4,10 @@
          "Name": "French 75",
          "Ingredients": [
             {
-               "Spirit": "Plymouth Gin",
-               "Citrus": "Lemon Juice",
-               "Sugar": "Simple Syrup",
-               "Other": "Prosecco"
+               "Spirit": "Plymouth Gin, 1oz",
+               "Citrus": "Lemon Juice, .5oz",
+               "Sugar": "Simple Syrup, .5oz",
+               "Other": "Prosecco, 2-4oz"
             }
          ]
       },
@@ -15,10 +15,10 @@
          "Name": "French 75",
          "Ingredients": [
             {
-               "Spirit": "Congac",
-               "Citrus": "Lemon Juice",
-               "Sugar": "Simple Syrup",
-               "Other": "Prosecco"
+               "Spirit": "Congac, 1oz",
+               "Citrus": "Lemon Juice, .5oz",
+               "Sugar": "Simple Syrup, .5oz",
+               "Other": "Prosecco, 2-4oz"
             }
          ]
       },
