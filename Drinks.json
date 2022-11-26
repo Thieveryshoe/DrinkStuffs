@@ -23,47 +23,47 @@
          ]
       },
       {
-        "Name": "Gold Rush",
-        "Ingredients": [
-           {
-              "Spirit": "Bourboun Whiskey, 1.5oz",
-              "Citrus": "Lemon Juice, .75oz",
-              "Sugar": "Honey Syrup (3p honey - 1p hot water), .75oz"
-           }
-        ]
-     },
+         "Name": "Gold Rush",
+         "Ingredients": [
+            {
+               "Spirit": "Bourboun Whiskey, 1.5oz",
+               "Citrus": "Lemon Juice, .75oz",
+               "Sugar": "Honey Syrup (3p honey - 1p hot water), .75oz"
+            }
+         ]
+      },
       {
-        "Name": "Manhattan",
-        "Ingredients": [
-           {
-              "Spirit": "Rye Whiskey",
-              "Bitters": "Angostura",
-              "Sugar": "Sweet Vermouth"
-           }
-        ]
-     },
+         "Name": "Manhattan",
+         "Ingredients": [
+            {
+               "Spirit": "Rye Whiskey",
+               "Bitters": "Angostura",
+               "Sugar": "Sweet Vermouth"
+            }
+         ]
+      },
       {
-        "Name": "Bramble",
-        "Ingredients": [
-           {
-              "Spirit": "The Botanist Islay Dry Gin, 1.5oz",
-              "Citrus": "Lemon Juice, .75o",
-              "Sugar": "semi-rich simple syrup (1.5:1 sugar:water), .5oz",
-              "Other": "Combier Crème de Mûre (float), .5oz"
-           }
-        ]
-     },
+         "Name": "Bramble",
+         "Ingredients": [
+            {
+               "Spirit": "The Botanist Islay Dry Gin, 1.5oz",
+               "Citrus": "Lemon Juice, .75o",
+               "Sugar": "semi-rich simple syrup (1.5:1 sugar:water), .5oz",
+               "Other": "Combier Crème de Mûre (float), .5oz"
+            }
+         ]
+      },
       {
-        "Name": "Bourbon Renewal",
-        "Ingredients": [
-           {
-              "Spirit": "Buffalo Trace Bourbon, 2oz",
-              "Citrus": "Lemon Juice, .75oz",
-              "Sugar": "semi-rich simple syrup (1.5:1 sugar:water), .25oz",
-              "Liquor": "Jules Theuriet Crème de Cassis de Dijon, .75oz",
-              "Bitters": "Angostura, 1-2 dashes"
-           }
-        ]
-     }
+         "Name": "Bourbon Renewal",
+         "Ingredients": [
+            {
+               "Spirit": "Buffalo Trace Bourbon, 2oz",
+               "Citrus": "Lemon Juice, .75oz",
+               "Sugar": "semi-rich simple syrup (1.5:1 sugar:water), .25oz",
+               "Liquor": "Jules Theuriet Crème de Cassis de Dijon, .75oz",
+               "Bitters": "Angostura, 1-2 dashes"
+            }
+         ]
+      }
    ]
 }
