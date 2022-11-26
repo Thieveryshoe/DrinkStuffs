@@ -26,8 +26,8 @@
         "Name": "Gold Rush",
         "Ingredients": [
            {
-              "Spirit": "Bourboun Whiskey, 1.5o",
-              "Citrus": "Lemon Juice, .75o",
+              "Spirit": "Bourboun Whiskey, 1.5oz",
+              "Citrus": "Lemon Juice, .75oz",
               "Sugar": "Honey Syrup (3p honey - 1p hot water), .75oz"
            }
         ]
@@ -41,8 +41,29 @@
               "Sugar": "Sweet Vermouth"
            }
         ]
+     },
+      {
+        "Name": "Bramble",
+        "Ingredients": [
+           {
+              "Spirit": "The Botanist Islay Dry Gin, 1.5oz",
+              "Citrus": "Lemon Juice, .75o",
+              "Sugar": "semi-rich simple syrup (1.5:1 sugar:water), .5oz",
+              "Other": "Combier Crème de Mûre (float), .5oz"
+           }
+        ]
+     },
+      {
+        "Name": "Bourbon Renewal",
+        "Ingredients": [
+           {
+              "Spirit": "Buffalo Trace Bourbon, 2oz",
+              "Citrus": "Lemon Juice, 1o",
+              "Sugar": "semi-rich simple syrup (1.5:1 sugar:water), .25oz",
+              "Liquor": "Jules Theuriet Crème de Cassis de Dijon, .5oz",
+              "Bitters": "Angostura, 1-2 dashes"
+           }
+        ]
      }
    ]
 }
-
-// Pierre Ferrand Dry Curacao - Orange
